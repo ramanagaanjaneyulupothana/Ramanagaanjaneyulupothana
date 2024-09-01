@@ -6,12 +6,13 @@
 
 <p align="left"> <a href="https://github.com/ramanagaanjaneyulupothana?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=ramanagaanjaneyulupothana" alt="ramanagaanjaneyulupothana" /></a> </p>
 
+- 💬 GOTO MY REPOSITORIES **https://github.com/ramanagaanjaneyulupothana?tab=repositories**
+
 - 🤝 I’m looking for help with **Data Structures and Algorithms**
 
 - 💬 Ask me about **React, JavaScript**
 
 - 📫 How to reach me **ramanagaanjaneyulu@gmail.com**
-- GOTO MY REPOSITORIES **https://github.com/ramanagaanjaneyulupothana?tab=repositories**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
