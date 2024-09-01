@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Rama Naga Anjaneyulu Pothana</h1>
 <h2 align="left">About me</h2>
-<h3 align="center">I am passionate about continuous growth and the transformative potential of code.I continuously expand my skill set into advanced areas such as DSA through JAVA and Problem Solving Skills</h3>
+<h3 align="center">I am passionate about continuous growth and the transformative potential of code.I continuously expand my skill set into advanced areas such as DSA through JAVA and Problem-Solving Skills</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramanagaanjaneyulupothana&label=Profile%20views&color=0e75b6&style=flat" alt="ramanagaanjaneyulupothana" /> </p>
 
-<p align="left"> <a href="https://github.com/ramanagaanjaneyulupothana/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramanagaanjaneyulupothana" alt="ramanagaanjaneyulupothana" /></a> </p>
+<p align="left"> <a href="https://github.com/ramanagaanjaneyulupothana?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=ramanagaanjaneyulupothana" alt="ramanagaanjaneyulupothana" /></a> </p>
 
-- 🤝 I’m looking for help with **Data Structures and Algorithems**
+- 🤝 I’m looking for help with **Data Structures and Algorithms**
 
 - 💬 Ask me about **React, JavaScript**
 
